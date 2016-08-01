@@ -2,9 +2,14 @@
 
 ## Predicting Housing Values in Suburbs of Boston
 
+## Background
+In this project, I will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
+
+The dataset for this project originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing). The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. 
+
 The **medv** variable is the target variable.
 
-### Data description
+## Data description
 
 The Boston data frame has 506 rows and 14 columns.
 
